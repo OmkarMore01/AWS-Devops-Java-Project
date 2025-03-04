@@ -4,9 +4,16 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Example</title>
+<style>
+.form-c
+{
+background-color:cyan;
+border:5px solid black;
+}
+</style>
     </head>
     <body bgcolor="silver">
-        <form method="post" action="login.jsp">
+        <form method="post" class="form-c" action="login.jsp">
             <center>
             <table border="0" width="30%" cellpadding="3">
                 <thead>
