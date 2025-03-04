@@ -12,7 +12,7 @@ border:5px solid black;
 }
 </style>
     </head>
-    <body bgcolor="silver">
+    <body bgcolor="orange">
         <form method="post" class="form-c" action="login.jsp">
             <center>
             <table border="0" width="30%" cellpadding="3">
